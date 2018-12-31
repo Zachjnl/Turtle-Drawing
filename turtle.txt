@@ -1,0 +1,183 @@
+f 5
+r
+f 1
+d
+u
+r
+r
+f 1
+l
+f 1
+d
+f 2
+u
+f 1
+l
+f 1
+d
+f 3
+u
+f 1
+l
+f 1
+d
+f 2
+u
+f 1
+l
+f 1
+d
+u
+r
+f 2
+l
+d
+f 1
+u
+f 1
+r
+f 1
+d
+f 2
+u
+f 1
+r
+f 1
+d
+f 1
+u
+f 1
+r
+f 1
+d
+f 2
+u
+r
+r
+f 5
+l
+d
+f 2
+u
+f 1
+r
+f 1
+d
+f 1
+u
+f 2
+d
+f 1
+u
+f 1
+r
+f 1
+d
+f 2
+r
+u
+f 3
+r
+d
+f 2
+u
+f 1
+r
+f 5
+d
+f 3
+u
+f 1
+r
+f 1
+d
+f 1
+u
+f 1
+r
+f 1
+d
+f 2
+u
+l
+f 2
+r
+f 1
+r
+d
+f 4
+u
+f 1
+r
+f 6
+r
+d
+f 2
+u
+f 1
+l
+f 1
+d
+f 2
+u
+f 1
+l
+f 1
+d
+f 2
+r
+u
+f 2
+d
+f 4
+u
+r
+f 3
+r
+f 2
+r
+d
+f 5
+u
+r
+f 5
+r
+f 2
+l
+d
+f 2
+u
+f 1
+r
+f 1
+r
+d
+f 4
+l
+f 1
+u
+f 1
+l
+f 1
+d
+f 2
+u
+f 3
+l
+d
+f 2
+u
+f 1
+r
+f 1
+d
+f 2
+u
+f 1
+r
+f 1
+d
+p
+q
+p
+q
